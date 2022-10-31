@@ -1,3 +1,7 @@
 /.metadata/
 bin/
-/.settings
+out/
+/.idea
+.classpath
+.project
+*.iml
